@@ -46,4 +46,6 @@ Responsive design for all screen sizes
 Hover effects and micro-interactions on every element
 The system uses Chart.js for data visualization, Tailwind CSS for styling, and vanilla JavaScript for all functionality. Every feature works end-to-end with realistic data simulation!
 
+#AI #MachineLearning #HealthTech #Nutrition #DietRecommendation #Python #TensorFlow #DataScience #Healthcare #WellnessApp #PersonalizedDiet #CalorieTracker #FoodRecommendation #FullStack #Django #React #HealthAndFitness #MLModel #PredictiveAnalytics #OpenSource
+
 contact for full verion (professorshami435@gmail.com)
